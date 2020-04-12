@@ -1,0 +1,32 @@
+//Notes
+
+// terminal commands:
+/*
+mkdir: make directory 
+
+ls: lists all the files in folder
+
+touch: this creates a simple type file
+
+*/
+
+/*
+node: node --version: tells you which node you have installed
+
+node is an open source environment for executing javascript code outside of the browser
+
+
+*/
+/*
+javascript definitions:
+
+var myVariableName = "string"
+
+a string is a type of variable 
+numbers are intigers 
+
+*/
+/*
+git is version control 
+
+*/
